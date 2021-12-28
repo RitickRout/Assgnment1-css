@@ -1,0 +1,27 @@
+h1{
+    color: rgba(255, 0, 0, 0.836);
+    
+}
+h3{
+    color: rgba(255, 0, 0, 0.774);
+    font-style: italic;
+}
+body{
+    
+}
+  ol li{
+      margin: 22px;;
+  }
+li{
+    color:rgb(196, 23, 23);
+}
+.prepbytes-home{
+    background-color: yellow;
+    font-style: italic;
+    color: red;
+    font-weight: bold;
+    text-decoration: none;
+}
+p{
+    color: brown;
+}
